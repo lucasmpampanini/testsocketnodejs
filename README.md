@@ -1,6 +1,6 @@
 # Socket io - Node js - Puppeteer - Aws S3 - MongeDB Atlas
 ## Buscando imagens apartir de uma url
-Apartir de uma url colacada na página index.html você terá o retorno das iamgens desta pagina em miniatura.
+Apartir de uma url colacada na página index.html você terá o retorno das imagens desta pagina em miniatura.
 #### O que acontece exatamente:
 - O **Socket io** estabelece uma conexão entre servidor e cliente.
 - Por meio desta conexão o back-end recebe a url da página.
